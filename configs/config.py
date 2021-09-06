@@ -77,9 +77,9 @@ VPN = {
 		"http": "http://{email}:{passwd}@{ip}:{port}",
 	},
 	"private": {
-		"port": "8080",
-		"email": "abdalhmohmd8@gmail.com",  
-		"passwd": "123456", 
+		"port": "",
+		"email": "",  
+		"passwd": "", 
 		"http": "http://{email}:{passwd}@{ip}:{port}",
 	},
 }
@@ -105,8 +105,8 @@ Config["NETFLIX"] = {
 	"cookies_txt": f"{dirPath}/configs/Cookies/cookies.txt",
 	"keys_file": f"{dirPath}/configs/KEYS/netflix.keys",
 	"token_file": f"{dirPath}/configs/Tokens/netflix_token.json",
-	"email": "Cfklop@max07.club",
-	"password": "1111",
+	"email": "",
+	"password": "",
 	"manifest_language": "en-US",
 	"metada_language": "en",
 	"manifestEsn": "NFCDIE-03-{}".format(utils().random_hex(30)),
