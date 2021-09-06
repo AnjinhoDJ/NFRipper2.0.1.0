@@ -1,4 +1,10 @@
 # NFRipper2.0
+I could not shared all the code here Because its has lots of files inisde it 
+
+https://new.gdtot.me/file/86651844 - Downoad File From Here.
+
+go to this link and donwload it
+
 Netflix Movies and TV Series Downloader Tool including CDM L1 which you guys can Donwload 4K Movies
 
 This is a Free NFRipper 2.0.1.0 Python script with CDM, its from yamaraj Telly which he used to rip the movies. 
